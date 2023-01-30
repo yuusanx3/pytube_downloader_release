@@ -10,7 +10,7 @@ ffmpegをインストールし、環境変数に設定する必要がありま�
 
 # ダウンロード
 
-アプリの最新版のダウンロードは[こちら](https://github.com/yuusanx3/pytube_downloader_release/releases/tag/v1.0.0.0)。
+アプリの最新版v1.0.0.0のダウンロードは[こちら](https://github.com/yuusanx3/pytube_downloader_release/releases/tag/v1.0.0.0)。
 
 ffmpegのインストール方法は[こちら](https://github.com/yuusanx3/knowledge/wiki/ffmpeg_install)。
 
