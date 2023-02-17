@@ -1,6 +1,6 @@
 # 概要
 
-**PYTUBE ダウンローダー**
+**PYTUBEダウンローダー (PYTUBE Downloader)**
 
 Pythonのライブラリ「pytube」を使った、YouTubeの動画をダウンロードするアプリです。  
 お使いのPCにPythonがインストールされていなくても動作可能ですが、  
